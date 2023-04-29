@@ -31,35 +31,7 @@ Here we list the capability of AudioGPT at this time. More supported models and 
 
 ### Sing
 
-|           Task            |   Supported Foundation Models   | Status |
-|:-------------------------:|:-------------------------------:|:------:|
-|       Text-to-Sing        |         [DiffSinger](), [VISinger]()          |  Yes (WIP)   |
-
+|           Task            |   Supported Foundation Models   | Status 
 ### Audio
 |          Task          | Supported Foundation Models | Status |
-|:----------------------:|:---------------------------:|:------:|
-|     Text-to-Audio      |      [Make-An-Audio]()      |  Yes   |
-|    Audio Inpainting    |      [Make-An-Audio]()      |  Yes   |
-|     Image-to-Audio     |      [Make-An-Audio]()      |  Yes   |
-|    Sound Detection     |    [Audio-transformer]()    | Yes    |
-| Target Sound Detection |    [TSDNet]()    |  Yes   |
-|    Sound Extraction    |    [LASSNet]()    |  Yes   |
-
-
-### Talking Head
-
-|           Task            |   Supported Foundation Models   |   Status   |
-|:-------------------------:|:-------------------------------:|:----------:|
-|  Talking Head Synthesis   |          [GeneFace]()           | Yes (WIP)  |
-
-
-## Acknowledgement
-We appreciate the open source of the following projects:
-
-[ESPNet](https://github.com/espnet/espnet) &#8194;
-[NATSpeech](https://github.com/NATSpeech/NATSpeech) &#8194;
-[Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) &#8194;
-[Hugging Face](https://github.com/huggingface) &#8194;
-[LangChain](https://github.com/hwchase17/langchain) &#8194;
-[Stable Diffusion](https://github.com/CompVis/stable-diffusion) &#8194;
-
+|:--------
